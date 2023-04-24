@@ -61,4 +61,4 @@ Specifically, examples of transferring styles from Pablo Picasso's Seated Nude a
   </tr>
 </table>
 
-The GIF with demonstration of interactive widget could be found by the [link](demofiles/style_transfer.gif)
+The GIF with demonstration of interactive widget could be found by the [link](demofiles/cropped_style_transfer.gif)
