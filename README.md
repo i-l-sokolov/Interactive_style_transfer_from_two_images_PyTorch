@@ -60,11 +60,5 @@ Specifically, examples of transferring styles from Pablo Picasso's Seated Nude a
     </td>
   </tr>
 </table>
-The demonstration of interactive widgets are below
-<table>
-  <tr>
-    <td align="center">
-        <img src="demofiles/style_transfer.gif" width="600" height="400"><br>
-    </td>
-  </tr>
-</table>
+
+The GIF with demonstration of interactive widget could be found by the [link]('demofiles/style_transfer.gif')
